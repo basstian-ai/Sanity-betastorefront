@@ -1,0 +1,30 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Testing Sanity",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basstian-ai/Sanity-betastorefront.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/basstian-ai/Sanity-betastorefront/issues"
+  },
+  "homepage": "https://github.com/basstian-ai/Sanity-betastorefront#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "chai": "^6.0.1",
+    "chai-http": "^5.1.2",
+    "mocha": "^11.7.1",
+    "supertest": "^7.1.4"
+  }
+}
